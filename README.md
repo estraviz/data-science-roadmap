@@ -529,13 +529,13 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   6. RNNs.
   7. CNN Architectures.
 - [ ] [Cutting Edge Deep Learning For Coders, Part 2](http://course.fast.ai/part2.html) (by Jeremy Howard from fast.ai) ~ 90 hours.
-  8. Artistic Style.
-  9. Generative Models.
-  10. Multi-Modals & GANs.
-  11. Memory Networks.
-  12. Attentional Models.
-  13. Neural Translation.
-  14. Time Series & Segmentation.
+  1. Artistic Style.
+  2. Generative Models.
+  3. Multi-Modals & GANs.
+  4. Memory Networks.
+  5. Attentional Models.
+  6. Neural Translation.
+  7. Time Series & Segmentation.
 - [ ] [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv) (by Parag Mital at Kadenze) ~ 30 hours.
   1. Introduction to TensorFlow.
   2. Training A Network W/ TensorFlow.
