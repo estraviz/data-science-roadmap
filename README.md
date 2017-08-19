@@ -554,6 +554,22 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   8. Sparse coding.
   9. Computer vision.
   10. Natural language processing.
+- [ ] [](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) (by Nando de Freitas at Oxford University).
+  1. Introduction.
+  2. Linear Prediction.
+  3. Maximum likelihood.
+  4. Regularizers, basis functions and cross-validation.
+  5. Optimisation.
+  6. Logistic regression.
+  7. Back-propagation and layer-wise design of neural nets.
+  8. Neural networks and deep learning with Torch.
+  9. Convolutional neural networks.
+  10. Max-margin learning and siamese networks.
+  11. Recurrent neural networks and LSTMs.
+  12. Hand-writing with recurrent neural networks (Guest speaker: Alex Graves from Google Deepmind).
+  13. Variational autoencoders and image generation (Guest speaker: Karol Gregor from Google Deepmind).
+  14. Reinforcement learning with direct policy search.
+  15. Reinforcement learning with action-value functions.
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning) (by Jeff Leek, Roger D. Peng and Brian Caffo from Johns Hopkins University at Coursera). ~ 16 hours.
