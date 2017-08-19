@@ -554,7 +554,7 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   8. Sparse coding.
   9. Computer vision.
   10. Natural language processing.
-- [ ] [](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) (by Nando de Freitas at Oxford University).
+- [ ] [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) (by Nando de Freitas at Oxford University).
   1. Introduction.
   2. Linear Prediction.
   3. Maximum likelihood.
