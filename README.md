@@ -11,10 +11,12 @@ I want to track the progress of my studies in this broad area. I do not intend t
 It is not that easy to classify subjects in Data Science. Some courses may correspond clearly to only one category, some others may belong to more than one, etc. I have tried to simplify the categories of interest in what you can see in the table of contents. There may still be some incongruences, but I think I am happy with the result :)
 
 ### Current status...
-- Last course completed: 
-  - [**Cleaning Data with Python**](#python-back-to-top--2). 
-- Next...?
-  - [**Supervised Learning with scikit-learn**](#python-back-to-top--3).
+- Last course completed:  
+✅ [**Cleaning Data with Python**](#python-back-to-top--2).
+
+- Next...?  
+🔜 [**Neural Networks and Deep Learning**](#python-back-to-top--3).  
+🔜 [**Supervised Learning with scikit-learn**](#python-back-to-top--3).
 
 ---
 
@@ -370,7 +372,7 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   18. Epilogue.
 
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-- [ ] [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) (by Andreas Müller and Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
+- [ ] 🔜 [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) (by Andreas Müller and Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
   1. Classification.
   2. Regression.
   3. Fine-tuning your model.
@@ -443,7 +445,7 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   4. Mixture Models.
   5. Mixed Membership Modeling via Latent Dirichlet Allocation.
   6. Hierarchical Clustering & Closing Remarks.
-- [ ] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) (by Andrew Ng from deeplearning.ai at Coursera) ~ 12 hours. 
+- [ ] 🔜 [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) (by Andrew Ng from deeplearning.ai at Coursera) ~ 12 hours. 
   1. Introduction to deep learning.
   2. Neural Networks Basics.
   3. Shallow neural networks.
