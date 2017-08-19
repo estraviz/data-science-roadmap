@@ -408,7 +408,6 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   3. Classification of Text.
   4. Topic Modeling.
 - [ ] [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis) (by Daniel Romero from University of Michigan at Coursera) ~ 40 hours.
-  1. 
 - [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations) (by Carlos Guestrin and Emily Fox from University of Washington at Coursera) ~ 30 hours.
   1. Welcome.
   2. Regression: Predicting House Prices.
