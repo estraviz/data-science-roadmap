@@ -783,6 +783,11 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   2. Point Pattern Analysis.
   3. Areal Statistics.
   4. Geostatistics.
+- [ ] [Sentiment Analysis in R: The Tidy Way](https://www.datacamp.com/courses/sentiment-analysis-in-r-the-tidy-way) (by Julia Silge at DataCamp). ~ 4 hours.
+  1. Tweets across the United States.
+  2. Shakespeare gets Sentimental.
+  3. Analyzing TV News.
+  4. Singing a Happy Song (or Sad?!).
 
 
 # 8. BIG DATA <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
