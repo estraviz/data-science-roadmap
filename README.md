@@ -194,8 +194,7 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
 - [ ] [Working with Geospatial Data in R](https://www.datacamp.com/courses/working-with-geospatial-data-in-r) (by Charlotte Wickham at DataCamp). ~ 4 hours.
 
 ### JavaScript <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-- [ ] [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507) (by Ryan Orban, Chris Saden and Jonathan Dinu at Udacity).
-. ~ 70 hours.
+- [ ] [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507) (by Ryan Orban, Chris Saden and Jonathan Dinu at Udacity) ~ 70 hours.
 
 
 # 7. PROBABILITY AND STATISTICS <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
