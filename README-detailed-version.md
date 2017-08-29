@@ -689,8 +689,7 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   4. Data import and projections.
 
 ### JavaScript <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-- [ ] [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507) (by Ryan Orban, Chris Saden and Jonathan Dinu at Udacity).
-. ~ 70 hours.
+- [ ] [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507) (by Ryan Orban, Chris Saden and Jonathan Dinu at Udacity) ~ 70 hours.
   1. Visualization Fundamentals.
   2. Building Blocks.
   3. Design Principles.
