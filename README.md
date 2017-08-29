@@ -42,6 +42,7 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 6. [Data Visualization and Reporting](#6-data-visualization-and-reporting-back-to-top-).
     - [Python](#python-back-to-top--5).
     - [R](#r-back-to-top--5).
+    - [JavaScript](#javascript-back-to-top-).
 7. [Probability and Statistics](#7-probability-and-statistics-back-to-top-).
     - [Python](#python-back-to-top--6).
     - [R](#r-back-to-top--6).
@@ -49,7 +50,7 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
     - [General](#general-back-to-top-).
     - [Spark](#spark-back-to-top-).
 9. [Miscellaneous](#9-miscellaneous-back-to-top-).
-    - [JavaScript](#javascript-back-to-top-).
+    - [JavaScript](#javascript-back-to-top--1).
     - [Python](#python-back-to-top--7).
     - [R](#r-back-to-top--7).
     - [Others](#others-back-to-top-).
@@ -686,6 +687,16 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   2. Point and polygon data.
   3. Raster data and color.
   4. Data import and projections.
+
+### JavaScript <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+- [ ] [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507) (by Ryan Orban, Chris Saden and Jonathan Dinu at Udacity).
+. ~ 70 hours.
+  1. Visualization Fundamentals.
+  2. Building Blocks.
+  3. Design Principles.
+  4. Dimple js.
+  5. Narratives.
+  6. Animation and Interaction.
 
 
 # 7. PROBABILITY AND STATISTICS <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
