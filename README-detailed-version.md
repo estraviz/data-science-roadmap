@@ -892,6 +892,7 @@ This is a selection of books for Data Science and related disciplines from which
 | &#x2610; | [Deep Learning](https://www.safaribooksonline.com/library/view/deep-learning/9781491924570/) | Josh Patterson, Adam Gibson | O'Reilly | Aug 2017 (*) | |
 | &#x2610; | [Fundamentals of Deep Learning](https://www.safaribooksonline.com/library/view/fundamentals-of-deep/9781491925607/) | Nikhil Buduma | O'Reilly | Jun 2017 | [GitHub](https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book) |
 | &#x2610; | [The Elements of Statistical Learning (2nd ed.)](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/) | Trevor Hastie, Robert Tibshirani, Jerome Friedman | Springer | May 2017 | [Datasets](https://web.stanford.edu/~hastie/ElemStatLearn/) |
+| &#x2610; | [Practical Statistics for Data Scientists](http://shop.oreilly.com/product/0636920048992.do) | Peter Bruce, Andrew Bruce | O'Reilly | May 2017 | [GitHub](https://github.com/andrewgbruce/statistics-for-data-scientists) |
 | &#x2610; | [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/) | Aurélien Géron | O'Reilly | Apr 2017 | [GitHub](https://github.com/ageron/handson-ml) |
 | &#x2610; | [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist) | Brian Godsey | Manning | Abr 2017 | |
 | &#x2610; | [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/) | Ian Goodfellow, Yoshua Bengio, Aaron Courville | MIT Press | Jan 2017 | |
@@ -907,7 +908,7 @@ This is a selection of books for Data Science and related disciplines from which
 | &#x2610; | [R in Action (2nd ed.)](https://www.manning.com/books/r-in-action-second-edition) | Robert I. Kabacoff | Manning | May 2015 | [GitHub](https://github.com/kabacoff/RiA2) |
 | &#x2610; | [Data Science from Scratch](https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/) | Joel Grus | O'Reilly | Apr 2015 | [GitHub](https://github.com/joelgrus/data-science-from-scratch) |
 | &#x2610; | [Data Science at the Command Line](https://www.safaribooksonline.com/library/view/data-science-at/9781491947845/) | Jeroen Janssens | O'Reilly | Oct 2014 | [GitHub](https://github.com/jeroenjanssens/data-science-at-the-command-line) |
-| &#x2610; | [Learning scikit-learn: Machine Learning in Python](https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python) | Raúl Garreta, Guillermo Moncecchi | Packt | Nov 2013 | [GitHub](https://github.com/gmonce/scikit-learn-book) |
+| &#x2611; | [Learning scikit-learn: Machine Learning in Python](https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python) | Raúl Garreta, Guillermo Moncecchi | Packt | Nov 2013 | [GitHub](https://github.com/gmonce/scikit-learn-book) |
 
 
 _(*) Expected publication date_
