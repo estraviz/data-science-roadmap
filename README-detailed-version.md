@@ -11,12 +11,14 @@ I want to track the progress of my studies in this broad area. I do not intend t
 It is not that easy to classify subjects in Data Science. Some courses may correspond clearly to only one category, some others may belong to more than one, etc. I have tried to simplify the categories of interest in what you can see in the table of contents. There may still be some incongruences, but I think I am happy with the result :)
 
 ### Current status...
-- Last course completed:  
-✅ [**Cleaning Data with Python**](#python-back-to-top--2).
+- Latest completed:  
+✅ [**Cleaning Data with Python**](#python-back-to-top--2) (*course*).  
+✅ [**Learning scikit-learn: Machine Learning in Python**](#10-books-back-to-top-) (*book*).
 
 - Next...?  
-🔜 [**Neural Networks and Deep Learning**](#python-back-to-top--3).  
-🔜 [**Supervised Learning with scikit-learn**](#python-back-to-top--3).
+🔜 [**Neural Networks and Deep Learning**](#python-back-to-top--3) (*course*).  
+🔜 [**Supervised Learning with scikit-learn**](#python-back-to-top--3) (*course*).  
+🔜 [**Practical Statistics for Data Scientists**](#10-books-back-to-top-) (*book*).
 
 ---
 
@@ -158,6 +160,11 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
   2. Filtering rows.
   3. Aggregate Functions.
   4. Sorting, grouping and joins.
+- [ ] [Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql) (by Chester Ismay at DataCamp). ~ 5 hours.
+  1. Introduction to joins.
+  2. Outer joins and cross joins.
+  3. Set theory clauses.
+  4. Subqueries.
 
 
 # 2. GENERAL COURSES <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
