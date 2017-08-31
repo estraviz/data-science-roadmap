@@ -13,10 +13,12 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 ### Current status...
 - Last course completed:  
 ✅ [**Cleaning Data with Python**](#python-back-to-top--2).
+✅ [**Learning scikit-learn: Machine Learning in Python**](#10-books-back-to-top-) (*book*).
 
 - Next...?  
 🔜 [**Neural Networks and Deep Learning**](#python-back-to-top--3).  
 🔜 [**Supervised Learning with scikit-learn**](#python-back-to-top--3).
+🔜 [**Practical Statistics for Data Scientists**](#10-books-back-to-top-) (*book*).
 
 ---
 
