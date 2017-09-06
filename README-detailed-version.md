@@ -780,6 +780,12 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   3. Simple linear regression.
   4. Interpreting regression models.
   5. Model Fit.
+- [ ] [Multiple and Logistic Regression](https://www.datacamp.com/courses/multiple-and-logistic-regression) (by Ben Baumer at DataCamp). ~ 4 hours.
+  1. Parallel Slopes.
+  2. Evaluating and extending parallel slopes model.
+  3. Multiple Regression.
+  4. Logistic Regression.
+  5. Case Study: Italian restaurants in NYC.
 - [ ] [Foundations of Inference](https://www.datacamp.com/courses/foundations-of-inference) (by Jo Hardin at DataCamp). ~ 4 hours.
   1. Introduction to ideas of inference.
   2. Completing a randomization test: gender discrimination.
