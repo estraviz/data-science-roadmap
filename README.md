@@ -216,6 +216,7 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
 - [ ] [Introduction to Data](https://www.datacamp.com/courses/introduction-to-data) (by Mine Cetinkaya-Rundel at DataCamp). ~ 4 hours.
 - [ ] [Exploratory Data Analysis](https://www.datacamp.com/courses/exploratory-data-analysis) (by Andrew Bray at DataCamp). ~ 4 hours.
 - [ ] [Correlation and Regression](https://www.datacamp.com/courses/correlation-and-regression) (by Ben Baumer at DataCamp). ~ 4 hours.
+- [ ] [Multiple and Logistic Regression](https://www.datacamp.com/courses/multiple-and-logistic-regression) (by Ben Baumer at DataCamp). ~ 4 hours.
 - [ ] [Foundations of Inference](https://www.datacamp.com/courses/foundations-of-inference) (by Jo Hardin at DataCamp). ~ 4 hours.
 - [ ] [Foundations of Probability in R](https://www.datacamp.com/courses/foundations-of-probability-in-r) (by David Robinson at DataCamp). ~ 4 hours.
 - [ ] [Beginning Bayes in R](https://www.datacamp.com/courses/beginning-bayes-in-r/) (by Jim Albert at DataCamp). ~ 4 hours.
