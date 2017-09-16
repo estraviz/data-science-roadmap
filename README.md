@@ -12,12 +12,10 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 
 ### Current status...
 - Latest completed:  
-✅ [**Cleaning Data with Python**](#python-back-to-top--2) (*course*).  
-✅ [**Learning scikit-learn: Machine Learning in Python**](#10-books-back-to-top-) (*book*).
+✅ [**Neural Networks and Deep Learning**](#python-back-to-top--3) (*course*).  
 
 - Next...?  
-🔜 [**Neural Networks and Deep Learning**](#python-back-to-top--3) (*course*).  
-🔜 [**Supervised Learning with scikit-learn**](#python-back-to-top--3) (*course*).  
+🔜 [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](#python-back-to-top--3) (*course*).  
 🔜 [**Practical Statistics for Data Scientists**](#10-books-back-to-top-) (*book*).
 
 ---
@@ -133,7 +131,7 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
 - [ ] [Learning from Data]() (by Yaser Abu-Mostafa at Caltech). ~ 108 hours.
 
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-- [ ] 🔜 [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) (by Andreas Müller and Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
+- [ ] [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) (by Andreas Müller and Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
 - [ ] [Machine Learning with the Experts: School Budgets](https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets) (by Peter Bull at DataCamp). ~ 4 hours.
 - [X] [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python) (by Benjamin Wilson at DataCamp). ~ 4 hours.
 - [ ] [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) (by Dan Becker at DataCamp). ~ 4 hours.
@@ -146,8 +144,8 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
 - [ ] [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) (by Emily Fox and Carlos Guestrin from University of Washington at Coursera) ~ 30 hours.
 - [ ] [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification) (by Carlos Guestrin and Emily Fox from University of Washington at Coursera) ~ 35 hours.
 - [ ] [Machine Learning: Clustering & Retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval) (by Emily Fox and Carlos Guestrin from University of Washington at Coursera) ~ 30 hours.
-- [ ] 🔜 [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) (by Andrew Ng from deeplearning.ai at Coursera) ~ 12 hours. 
-- [ ] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
+- [X] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) (by Andrew Ng from deeplearning.ai at Coursera) ~ 12 hours. 
+- [ ] 🔜 [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
 - [ ] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) (by Andrew Ng from deeplearning.ai at Coursera) ~ 6 hours. 
 - [ ] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) (by Andrew Ng from deeplearning.ai at Coursera). 
 - [ ] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) (by Andrew Ng from deeplearning.ai at Coursera). 
