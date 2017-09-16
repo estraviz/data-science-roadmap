@@ -12,12 +12,10 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 
 ### Current status...
 - Latest completed:  
-✅ [**Cleaning Data with Python**](#python-back-to-top--2) (*course*).  
-✅ [**Learning scikit-learn: Machine Learning in Python**](#10-books-back-to-top-) (*book*).
+✅ [**Neural Networks and Deep Learning**](#python-back-to-top--3) (*course*).  
 
 - Next...?  
-🔜 [**Neural Networks and Deep Learning**](#python-back-to-top--3) (*course*).  
-🔜 [**Supervised Learning with scikit-learn**](#python-back-to-top--3) (*course*).  
+🔜 [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](#python-back-to-top--3) (*course*).  
 🔜 [**Practical Statistics for Data Scientists**](#10-books-back-to-top-) (*book*).
 
 ---
@@ -380,7 +378,7 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   18. Epilogue.
 
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-- [ ] 🔜 [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) (by Andreas Müller and Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
+- [ ] [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) (by Andreas Müller and Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
   1. Classification.
   2. Regression.
   3. Fine-tuning your model.
@@ -453,12 +451,12 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   4. Mixture Models.
   5. Mixed Membership Modeling via Latent Dirichlet Allocation.
   6. Hierarchical Clustering & Closing Remarks.
-- [ ] 🔜 [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) (by Andrew Ng from deeplearning.ai at Coursera) ~ 12 hours. 
+- [X] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) (by Andrew Ng from deeplearning.ai at Coursera) ~ 12 hours. 
   1. Introduction to deep learning.
   2. Neural Networks Basics.
   3. Shallow neural networks.
   4. Deep Neural Networks.
-- [ ] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
+- [ ] 🔜 [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
   1. Practical aspects of Deep Learning.
   2. Optimization algorithms.
   3. Hyperparameter tuning, Batch Normalization and Programming Frameworks.
