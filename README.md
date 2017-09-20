@@ -203,7 +203,8 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
 - [X] [Probabilistic Modeling and Bayesian Networks](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Borja Calvo and Aritz Pérez. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 3 ECTS ~ 75 hours.
 - [ ] [Developing Data Products](https://www.coursera.org/learn/data-products) (by Brian Caffo, Jeff Leek and Roger D. Peng from Johns Hopkins University at Coursera). ~ 16 hours.
 - [X] [Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1) (by Justin Bois at DataCamp). ~ 3 hours.
-- [ ] [Statistical Thinking in Python (Part 2)]() (by Justin Bois at DataCamp). ~ 4 hours.
+- [ ] [Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2) (by Justin Bois at DataCamp). ~ 4 hours.
+- [ ] [Case Studies in Statistical Thinking](https://www.datacamp.com/courses/case-studies-in-statistical-thinking) (by Justin Bois at DataCamp). ~  4 hours.
 - [ ] [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1) (by Eric Ma at DataCamp). ~ 4 hours.
 - [ ] [Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2) (by Eric Ma at DataCamp). ~ 4 hours.
 
