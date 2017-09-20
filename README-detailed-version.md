@@ -721,12 +721,18 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   3. Thinking probabilistically-- Discrete variables.
   4. Thinking probabilistically-- Continuous variables.
   5. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/c4d451bf7fcb9e0aa9fb8cca0748d10b86e38a9a).
-- [ ] [Statistical Thinking in Python (Part 2)]() (by Justin Bois at DataCamp). ~ 4 hours.
+- [ ] [Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2) (by Justin Bois at DataCamp). ~ 4 hours.
   1. Parameter estimation by optimization.
   2. Bootstrap confidence intervals.
   3. Introduction to hypothesis testing.
   4. Hypothesis test examples.
   5. Putting it all together: a case study.
+- [ ] [Case Studies in Statistical Thinking](https://www.datacamp.com/courses/case-studies-in-statistical-thinking) (by Justin Bois at DataCamp). ~  4 hours.
+  1. Fish sleep and bacteria growth: A review of Statistical Thinking I and II.
+  2. Analysis of results of the 2015 FINA World Swimming Championships.
+  3. The "Current Controversy" of the 2013 World Championships.
+  4. Statistical seismology and the Parkfield region.
+  5. Earthquakes and oil mining in Oklahoma.
 - [ ] [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1) (by Eric Ma at DataCamp). ~ 4 hours.
   1. Introduction to networks.
   2. Important nodes.
