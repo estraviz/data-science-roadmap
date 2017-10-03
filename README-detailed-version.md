@@ -13,10 +13,12 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 ### Current status...
 - Latest completed:  
 ✅ [**Neural Networks and Deep Learning**](#python-back-to-top--3) (*course*).  
+✅ [**Become a Python Data Analyst**](#python-back-to-top--2) (*course*).  
 
 - Next...?  
 🔜 [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](#python-back-to-top--3) (*course*).  
 🔜 [**Practical Statistics for Data Scientists**](#10-books-back-to-top-) (*book*).
+🔜 [**Python Machine Learning (2nd ed.)**](#10-books-back-to-top-) (*book*).
 
 ---
 
@@ -247,6 +249,13 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
   2. NumPy and Pandas for 1D Data.
   3. NumPy and Pandas for 2D Data.
   4. Investigate a Dataset.
+- [X] [Become a Python Data Analyst](https://www.safaribooksonline.com/library/view/become-a-python/9781787284302/) (by Alvaro Fuentes at Safari). ~ 4 hours 30 minutes.
+  1. The Anaconda Distribution and the Jupyter Notebook.
+  2. Vectorizing Operations with NumPy.
+  3. Pandas: Everyone’s Favorite Data Analysis Library.
+  4. Visualization and Exploratory Data Analysis.
+  5. Statistical Computing with Python.
+  6. Introduction to Predictive Analytics Models.
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub> 
 - [X] [Exploratory Data Analysis](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Iñaki Inza, Itziar Irigoien, Yosu Yurramendi, Javier Muguerza, Ibai Gurrutxaga, José
@@ -456,7 +465,7 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   2. Neural Networks Basics.
   3. Shallow neural networks.
   4. Deep Neural Networks.
-- [ ] 🔜 [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
+- [ ] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
   1. Practical aspects of Deep Learning.
   2. Optimization algorithms.
   3. Hyperparameter tuning, Batch Normalization and Programming Frameworks.
@@ -911,7 +920,7 @@ This is a selection of books for Data Science and related disciplines from which
 | &#x2610; | [Deep Learning](https://www.safaribooksonline.com/library/view/deep-learning/9781491924570/) | Josh Patterson, Adam Gibson | O'Reilly | Aug 2017 | |
 | &#x2610; | [Fundamentals of Deep Learning](https://www.safaribooksonline.com/library/view/fundamentals-of-deep/9781491925607/) | Nikhil Buduma | O'Reilly | Jun 2017 | [GitHub](https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book) |
 | &#x2610; | [The Elements of Statistical Learning (2nd ed.)](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/) | Trevor Hastie, Robert Tibshirani, Jerome Friedman | Springer | May 2017 | [Datasets](https://web.stanford.edu/~hastie/ElemStatLearn/) |
-| &#x2610; | 🔜 [Practical Statistics for Data Scientists](http://shop.oreilly.com/product/0636920048992.do) | Peter Bruce, Andrew Bruce | O'Reilly | May 2017 | [GitHub](https://github.com/andrewgbruce/statistics-for-data-scientists) |
+| &#x2610; | [Practical Statistics for Data Scientists](http://shop.oreilly.com/product/0636920048992.do) | Peter Bruce, Andrew Bruce | O'Reilly | May 2017 | [GitHub](https://github.com/andrewgbruce/statistics-for-data-scientists) |
 | &#x2610; | [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/) | Aurélien Géron | O'Reilly | Apr 2017 | [GitHub](https://github.com/ageron/handson-ml) |
 | &#x2610; | [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist) | Brian Godsey | Manning | Abr 2017 | |
 | &#x2610; | [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/) | Ian Goodfellow, Yoshua Bengio, Aaron Courville | MIT Press | Jan 2017 | |
