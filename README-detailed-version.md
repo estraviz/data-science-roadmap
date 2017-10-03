@@ -249,10 +249,10 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
   2. `NumPy` and `Pandas` for 1D Data.
   3. `NumPy` and `Pandas` for 2D Data.
   4. Investigate a Dataset.
-- [X] [Become a Python Data Analyst](https://www.safaribooksonline.com/library/view/become-a-python/9781787284302/) (by Alvaro Fuentes at Safari). ~ 4 hours 30 minutes.
-  1. The `Anaconda` Distribution and the `Jupyter` Notebook.
-  2. Vectorizing Operations with `NumPy`.
-  3. `Pandas`: Everyone’s Favorite Data Analysis Library.
+- [X] [Become a Python Data Analyst](https://www.safaribooksonline.com/library/view/become-a-python/9781787284302/) (by Alvaro Fuentes at Safari). ~ 4 hours 30 minutes.  
+  1. The `Anaconda` Distribution and the `Jupyter` Notebook.  
+  2. Vectorizing Operations with `NumPy`.  
+  3. `Pandas`: Everyone’s Favorite Data Analysis Library.  
   4. Visualization and Exploratory Data Analysis.
   5. Statistical Computing with Python.
   6. Introduction to Predictive Analytics Models.
