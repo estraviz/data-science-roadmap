@@ -99,9 +99,10 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 - [X] [Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2) (by Hugo Bowne-Anderson at DataCamp). ~ 2 hours.
 - [X] [Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python) (by Daniel Chen at DataCamp). ~ 4 hours.
 - [X] [pandas Foundations](https://www.datacamp.com/courses/pandas-foundations) (by Dhavide Aruliah at DataCamp). ~ 4 hours.
-- [X] [Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas) (by Dhavide Aruliah at DataCamp). ~ 4 hours.
+- [X] [Manipulating DataFrames with `pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas) (by Dhavide Aruliah at DataCamp). ~ 4 hours.
 - [X] [Merging DataFrames with `pandas`](https://www.datacamp.com/courses/merging-dataframes-with-pandas) (by Dhavide Aruliah at DataCamp). ~ 4 hours.
 - [X] [Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python) (by Jason Myers at DataCamp). ~ 4 hours.
+- [X] [Become a Python Data Analyst](https://www.safaribooksonline.com/library/view/become-a-python/9781787284302/) (by Alvaro Fuentes at Safari). ~ 4 hours 30 minutes.
 - [ ] [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) (by Caroline Buckey at Udacity). ~ 60 hours.
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub> 
