@@ -253,8 +253,8 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
   6. Introduction to Predictive Analytics Models.
 - [ ] [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) (by Caroline Buckey at Udacity). ~ 60 hours.
   1. Data Analysis Process.
-  2. NumPy and Pandas for 1D Data.
-  3. NumPy and Pandas for 2D Data.
+  2. NumPy and Pandas for 1D Data.
+  3. NumPy and Pandas for 2D Data.
   4. Investigate a Dataset.
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub> 
