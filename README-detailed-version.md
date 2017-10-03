@@ -306,7 +306,7 @@ Ignacio Martín, Olatz Arbelaitz, Txus Perez. *Master in Computational Engineeri
   2. MBTA Ridership Data.
   3. World Food Facts.
   4. School Attendance Data.
-- [ ] [String Manipulation in R with stringr](https://www.datacamp.com/courses/string-manipulation-in-r-with-stringr) (by Charlotte Wickham at DataCamp). ~ 4 hours.
+- [ ] [String Manipulation in R with `stringr`](https://www.datacamp.com/courses/string-manipulation-in-r-with-stringr) (by Charlotte Wickham at DataCamp). ~ 4 hours.
   1. String basics.
   2. Introduction to stringr.
   3. Pattern matching with regular expressions.
