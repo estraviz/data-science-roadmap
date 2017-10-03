@@ -17,7 +17,7 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 
 - Next...?  
 🔜 [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](#python-back-to-top--3) (*course*).  
-🔜 [**Practical Statistics for Data Scientists**](#10-books-back-to-top-) (*book*).
+🔜 [**Practical Statistics for Data Scientists**](#10-books-back-to-top-) (*book*). 
 🔜 [**Python Machine Learning (2nd ed.)**](#10-books-back-to-top-) (*book*).
 
 ---
