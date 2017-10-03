@@ -115,7 +115,7 @@ Ignacio Martín, Olatz Arbelaitz, Txus Perez. *Master in Computational Engineeri
 - [ ] [Importing Data in R (Part 2)](https://www.datacamp.com/courses/importing-data-in-r-part-2) (by Filip Schouwenaars at DataCamp). ~ 3 hours.
 - [ ] [Cleaning Data in R](https://www.datacamp.com/courses/cleaning-data-in-r) (by Nick Carchedi at DataCamp). ~ 4 hours.
 - [ ] [Importing & Cleaning Data in R: Case Studies](https://www.datacamp.com/courses/importing-cleaning-data-in-r-case-studies) (by Nick Carchedi at DataCamp). ~ 4 hours.
-- [ ] [String Manipulation in R with stringr](https://www.datacamp.com/courses/string-manipulation-in-r-with-stringr) (by Charlotte Wickham at DataCamp). ~ 4 hours.
+- [ ] [String Manipulation in R with `stringr`](https://www.datacamp.com/courses/string-manipulation-in-r-with-stringr) (by Charlotte Wickham at DataCamp). ~ 4 hours.
 - [ ] [Data Manipulation in R with `dplyr`](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial) (by Garrett Grolemund at DataCamp). ~ 4 hours.
 - [ ] [Joining Data in R with `dplyr`](https://www.datacamp.com/courses/joining-data-in-r-with-dplyr) (by Garrett Grolemund at DataCamp). ~ 4 hours.
 - [ ] [Exploratory Data Analysis in R: Case Study](https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study) (by David Robinson at DataCamp). ~ 4 hours.
