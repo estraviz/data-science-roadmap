@@ -245,9 +245,9 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
   5. Putting it all together.
   6. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/1a539e59efa119c9593d16f0d93810832ba05035).
 - [X] [Become a Python Data Analyst](https://www.safaribooksonline.com/library/view/become-a-python/9781787284302/) (by Alvaro Fuentes at Safari). ~ 4 hours 30 minutes.  
-  1. The Anaconda Distribution and the Jupyter Notebook.  
-  2. Vectorizing Operations with NumPy.  
-  3. Pandas: Everyone’s Favorite Data Analysis Library.  
+  1. The Anaconda Distribution and the Jupyter Notebook.
+  2. Vectorizing Operations with NumPy.
+  3. Pandas: Everyone’s Favorite Data Analysis Library.
   4. Visualization and Exploratory Data Analysis.
   5. Statistical Computing with Python.
   6. Introduction to Predictive Analytics Models.
