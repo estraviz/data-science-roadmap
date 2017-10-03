@@ -224,7 +224,7 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
   3. Time series in `pandas`.
   4. Case Study - Sunlight in Austin.
   5. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/29eb7549baebd18d565ad1a02c0eabf2622856d8).
-- [X] [Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas) (by Dhavide Aruliah at DataCamp). ~ 4 hours.
+- [X] [Manipulating DataFrames with `pandas`](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas) (by Dhavide Aruliah at DataCamp). ~ 4 hours.
   1. Extracting and transforming data.
   2. Advanced indexing.
   3. Rearranging and reshaping data.
@@ -246,13 +246,13 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
   6. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/1a539e59efa119c9593d16f0d93810832ba05035).
 - [ ] [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) (by Caroline Buckey at Udacity). ~ 60 hours.
   1. Data Analysis Process.
-  2. NumPy and Pandas for 1D Data.
-  3. NumPy and Pandas for 2D Data.
+  2. `NumPy` and `Pandas` for 1D Data.
+  3. `NumPy` and `Pandas` for 2D Data.
   4. Investigate a Dataset.
 - [X] [Become a Python Data Analyst](https://www.safaribooksonline.com/library/view/become-a-python/9781787284302/) (by Alvaro Fuentes at Safari). ~ 4 hours 30 minutes.
-  1. The Anaconda Distribution and the Jupyter Notebook.
-  2. Vectorizing Operations with NumPy.
-  3. Pandas: Everyone’s Favorite Data Analysis Library.
+  1. The `Anaconda` Distribution and the `Jupyter` Notebook.
+  2. Vectorizing Operations with `NumPy`.
+  3. `Pandas`: Everyone’s Favorite Data Analysis Library.
   4. Visualization and Exploratory Data Analysis.
   5. Statistical Computing with Python.
   6. Introduction to Predictive Analytics Models.
