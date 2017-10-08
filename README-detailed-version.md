@@ -11,9 +11,9 @@ I want to track the progress of my studies in this broad area. I do not intend t
 It is not that easy to classify subjects in Data Science. Some courses may correspond clearly to only one category, some others may belong to more than one, etc. I have tried to simplify the categories of interest in what you can see in the table of contents. There may still be some incongruences, but I think I am happy with the result :)
 
 ### Latest courses completed...
-✅ [**Become a Python Data Analyst**](#python-back-to-top--2) (*course*).  
-✅ [**Neural Networks and Deep Learning**](#python-back-to-top--3) (*course*).  
-✅ [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](#python-back-to-top--3) (*course*).   
+✅ [**Become a Python Data Analyst**](#python-back-to-top--2) (*Safari course*).  
+✅ [**Neural Networks and Deep Learning**](#python-back-to-top--3) (*Coursera course*).  
+✅ [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](#python-back-to-top--3) (*Coursera course*).   
 
 ---
 
