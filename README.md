@@ -10,13 +10,10 @@ I want to track the progress of my studies in this broad area. I do not intend t
 ### How are things classified here?
 It is not that easy to classify subjects in Data Science. Some courses may correspond clearly to only one category, some others may belong to more than one, etc. I have tried to simplify the categories of interest in what you can see in the table of contents. There may still be some incongruences, but I think I am happy with the result :)
 
-### Current status...
-- Latest completed:  
-✅ [**Neural Networks and Deep Learning**](#python-back-to-top--3) (*course*).  
-
-- Next...?  
-🔜 [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](#python-back-to-top--3) (*course*).  
-🔜 [**Practical Statistics for Data Scientists**](#10-books-back-to-top-) (*book*).
+### Latest courses completed...
+✅ [**Become a Python Data Analyst**](#python-back-to-top--2) (*Safari course*).  
+✅ [**Neural Networks and Deep Learning**](#python-back-to-top--3) (*Coursera course*).  
+✅ [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](#python-back-to-top--3) (*Coursera course*).   
 
 ---
 
@@ -146,7 +143,7 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
 - [ ] [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification) (by Carlos Guestrin and Emily Fox from University of Washington at Coursera) ~ 35 hours.
 - [ ] [Machine Learning: Clustering & Retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval) (by Emily Fox and Carlos Guestrin from University of Washington at Coursera) ~ 30 hours.
 - [X] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) (by Andrew Ng from deeplearning.ai at Coursera) ~ 12 hours. 
-- [ ] 🔜 [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
+- [X] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
 - [ ] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) (by Andrew Ng from deeplearning.ai at Coursera) ~ 6 hours. 
 - [ ] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) (by Andrew Ng from deeplearning.ai at Coursera). 
 - [ ] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) (by Andrew Ng from deeplearning.ai at Coursera). 
@@ -262,7 +259,7 @@ This is a selection of books for Data Science and related disciplines from which
 | &#x2610; | [Deep Learning](https://www.safaribooksonline.com/library/view/deep-learning/9781491924570/) | Josh Patterson, Adam Gibson | O'Reilly | Aug 2017 | |
 | &#x2610; | [Fundamentals of Deep Learning](https://www.safaribooksonline.com/library/view/fundamentals-of-deep/9781491925607/) | Nikhil Buduma | O'Reilly | Jun 2017 | [GitHub](https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book) |
 | &#x2610; | [The Elements of Statistical Learning (2nd ed.)](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/) | Trevor Hastie, Robert Tibshirani, Jerome Friedman | Springer | May 2017 | [Datasets](https://web.stanford.edu/~hastie/ElemStatLearn/) |
-| &#x2610; | 🔜 [Practical Statistics for Data Scientists](http://shop.oreilly.com/product/0636920048992.do) | Peter Bruce, Andrew Bruce | O'Reilly | May 2017 | [GitHub](https://github.com/andrewgbruce/statistics-for-data-scientists) |
+| &#x2610; | [Practical Statistics for Data Scientists](http://shop.oreilly.com/product/0636920048992.do) | Peter Bruce, Andrew Bruce | O'Reilly | May 2017 | [GitHub](https://github.com/andrewgbruce/statistics-for-data-scientists) |
 | &#x2610; | [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/) | Aurélien Géron | O'Reilly | Apr 2017 | [GitHub](https://github.com/ageron/handson-ml) |
 | &#x2610; | [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist) | Brian Godsey | Manning | Abr 2017 | |
 | &#x2610; | [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/) | Ian Goodfellow, Yoshua Bengio, Aaron Courville | MIT Press | Jan 2017 | |
