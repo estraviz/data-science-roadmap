@@ -10,15 +10,10 @@ I want to track the progress of my studies in this broad area. I do not intend t
 ### How are things classified here?
 It is not that easy to classify subjects in Data Science. Some courses may correspond clearly to only one category, some others may belong to more than one, etc. I have tried to simplify the categories of interest in what you can see in the table of contents. There may still be some incongruences, but I think I am happy with the result :)
 
-### Current status...
-- Latest completed:  
+### Latest courses completed...
+✅ [**Become a Python Data Analyst**](#python-back-to-top--2) (*course*). 
 ✅ [**Neural Networks and Deep Learning**](#python-back-to-top--3) (*course*).  
-✅ [**Become a Python Data Analyst**](#python-back-to-top--2) (*course*).  
-
-- Next...?  
-🔜 [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](#python-back-to-top--3) (*course*).  
-🔜 [**Practical Statistics for Data Scientists**](#10-books-back-to-top-) (*book*).  
-🔜 [**Python Machine Learning (2nd ed.)**](#10-books-back-to-top-) (*book*).
+✅ [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](#python-back-to-top--3) (*course*).   
 
 ---
 
@@ -465,7 +460,7 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   2. Neural Networks Basics.
   3. Shallow neural networks.
   4. Deep Neural Networks.
-- [ ] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
+- [X] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
   1. Practical aspects of Deep Learning.
   2. Optimization algorithms.
   3. Hyperparameter tuning, Batch Normalization and Programming Frameworks.
