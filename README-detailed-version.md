@@ -239,7 +239,7 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
   4. Creating and Manipulating your own Databases.
   5. Putting it all together.
   6. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/1a539e59efa119c9593d16f0d93810832ba05035).
-- [X] [Become a Python Data Analyst](https://www.safaribooksonline.com/library/view/become-a-python/9781787284302/) (by Alvaro Fuentes at Safari). ~ 4 hours 30 minutes.
+- [X] [Become a Python Data Analyst](https://www.safaribooksonline.com/library/view/become-a-python/9781787284302/) (by Alvaro Fuentes at Safari). ~ 4 hours 30 minutes. [My github repo](https://github.com/estraviz/Become-a-Python-Data-Analyst).
   1. The Anaconda Distribution and the Jupyter Notebook.
   2. Vectorizing Operations with NumPy.
   3. Pandas: Everyone’s Favorite Data Analysis Library.
