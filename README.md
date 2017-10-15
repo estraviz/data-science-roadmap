@@ -55,10 +55,14 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 - [X] [Intro to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x) (by Filip Schouwenaars from DataCamp and Jonathan Sanito from Microsoft at edX). ~ 12 hours.
   * [Course Certificate ✓](https://courses.edx.org/certificates/16eb3a446afd48a4903a489e0e760694).
 - [X] [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) (by Filip Schouwenaars at DataCamp). ~ 4 hours.
+  * [Course Certificate ✓](https://www.datacamp.com/statement-of-accomplishment/course/c31b1fbf21cb4ba2cb2b2c2ea69be5b23448fffd).
 - [X] [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science) (by Filip Schouwenaars at DataCamp). ~ 4 hours.
+  * [Course Certificate ✓](https://www.datacamp.com/statement-of-accomplishment/course/9e110518236d7a22cafc988c6dc7d33651d0a6b9).
 - [ ] [Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science) (by Jason Myers at DataCamp). ~ 4 hours.
 - [X] [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1) (by Hugo Bowne-Anderson at DataCamp). ~ 3 hours.
+  * [Course Certificate ✓](https://www.datacamp.com/statement-of-accomplishment/course/687380fb7cdd21fc3f748ca87cd57ba3f94a930c).
 - [X] [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2) (by Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
+  * [Course Certificate ✓](https://www.datacamp.com/statement-of-accomplishment/course/6f54b6c54f8f01018430c4d525a820f153830d86).
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub> 
 - [X] [Mathematical and Statistical Sofware](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Yosu Yurramendi, Master in Computational Engineering and Intelligent Systems, University of the Basque Country). 3 ECTS ~ 75 hours.
