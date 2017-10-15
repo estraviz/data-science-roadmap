@@ -240,7 +240,7 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
 # 9. BOOKS <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 This is a selection of books for Data Science and related disciplines from which I have good references. The books are listed in descending order of publication date.
 
-|  | Title | Author | Publisher | Release Date | Code |
+|  | **Title** | **Author** | **Publisher** | **Release Date** | **Code** |
 | ---------- | ----- | ------ | --------- | ------------ | ---- |
 | ◻️ | [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) | Francois Chollet | Manning | Oct 2017 (*) | [GitHub](https://github.com/fchollet/deep-learning-with-python-notebooks) |
 | ◻️ | [Python for Data Analysis (2nd ed.)](https://www.safaribooksonline.com/library/view/python-for-data/9781491957653/) | Wes McKinney | O'Reilly | Oct 2017 (*) | [GitHub](https://github.com/wesm/pydata-book/tree/2nd-edition) |
