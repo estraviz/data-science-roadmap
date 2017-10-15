@@ -10,11 +10,6 @@ I want to track the progress of my studies in this broad area. I do not intend t
 ### How are things classified here?
 It is not that easy to classify subjects in Data Science. Some courses may correspond clearly to only one category, some others may belong to more than one, etc. I have tried to simplify the categories of interest in what you can see in the table of contents. There may still be some incongruences, but I think I am happy with the result :)
 
-### Latest courses completed...
-✅ [**Become a Python Data Analyst**](#python-back-to-top--2) (*Safari course*).  
-✅ [**Neural Networks and Deep Learning**](#python-back-to-top--3) (*Coursera course*).  
-✅ [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](#python-back-to-top--3) (*Coursera course*).   
-
 ---
 
 # TABLE OF CONTENTS
@@ -269,6 +264,7 @@ _(*) Expected publication date_
 
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Heuristic Search](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by José Antonio Lozano and Roberto Santana. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 3 ECTS ~ 75 hours.
+- [X] [Python: Getting Started](https://www.pluralsight.com/courses/python-getting-started) (by Bo Milanovich at Pluralsight). ~ 3 hours.
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Computation in Science and Engineering: numerical simulation](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Ander Murua. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 6 ECTS ~ 150 hours.
