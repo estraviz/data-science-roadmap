@@ -938,4 +938,13 @@ _(*) Expected publication date_
   3. Design of articles.
   4. Real Applications.
 - [X] [Domain-Driven Design Distilled](https://www.safaribooksonline.com/library/view/domain-driven-design-distilled/9780134593449/) (by Vaughn Vernon at Safari). ~ 4 hours.
-  1. 
+  1. Introduction.
+  2. Lesson 1: DDD for Me.
+  3. Lesson 2: Strategic Design with Bounded Contexts and the Ubiquitous Language.
+  4. Lesson 3: Strategic Design with Subdomains.
+  5. Lesson 4: Strategic Design with Context Mapping.
+  6. Lesson 5: Tactical Design with Aggregates.
+  7. Lesson 6: Tactical Design with Domain Events.
+  8. Lesson 7: Acceleration and Management Tools.
+  9. Summary.
+  
