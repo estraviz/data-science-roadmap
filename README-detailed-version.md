@@ -51,7 +51,7 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 
 ---  
 
-# 1. INTRODUCTORY COURSES <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+# 1. INTRODUCTORY COURSES IN DATA SCIENCE <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Intro to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x) (by Filip Schouwenaars from DataCamp and Jonathan Sanito from Microsoft at edX). ~ 12 hours.
   1. Python Basics.
@@ -158,7 +158,7 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
   4. Subqueries.
 
 
-# 2. GENERAL COURSES <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+# 2. GENERAL COURSES IN DATA SCIENCE <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [ ] [Master thesis corresponding to the Master in Computational Engineering and Intelligent Systems program](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Javier Estraviz. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 18 ECTS ~ 450 hours. Expected: 2018. 
 - [ ] [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359) (by Dave Holtz and Cheng-Han Lee at Udacity). ~ 80 hours.
