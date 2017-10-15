@@ -13,11 +13,11 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 ---
 
 # TABLE OF CONTENTS
-1. [Introductory Courses](#1-introductory-courses-back-to-top-).
+1. [Introductory Courses in Data Science](#1-introductory-courses-in-data-science-back-to-top-).
     - [Python](#python-back-to-top-). 
     - [R](#r-back-to-top-).
     - [SQL](#sql-back-to-top-).
-2. [General Courses](#2-general-courses-back-to-top-).
+2. [General Courses in Data Science](#2-general-courses-in-data-science-back-to-top-).
     - [Python](#python-back-to-top--1).
     - [R](#r-back-to-top--1).
 3. [Data Analysis](#data-analysis-back-to-top--2).
@@ -50,7 +50,7 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 
 ---  
 
-# 1. INTRODUCTORY COURSES <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+# 1. INTRODUCTORY COURSES IN DATA SCIENCE <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Intro to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x) (by Filip Schouwenaars from DataCamp and Jonathan Sanito from Microsoft at edX). ~ 12 hours.
 - [X] [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) (by Filip Schouwenaars at DataCamp). ~ 4 hours.
@@ -75,7 +75,7 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 - [ ] [Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql) (by Chester Ismay at DataCamp). ~ 5 hours.
 
 
-# 2. GENERAL COURSES <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+# 2. GENERAL COURSES IN DATA SCIENCE <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [ ] [Master thesis corresponding to the Master in Computational Engineering and Intelligent Systems program](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Javier Estraviz. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 18 ECTS ~ 450 hours. Expected: 2018. 
 - [ ] [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359) (by Dave Holtz and Cheng-Han Lee at Udacity). ~ 80 hours.
