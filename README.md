@@ -53,6 +53,7 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 # 1. INTRODUCTORY COURSES IN DATA SCIENCE <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Intro to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x) (by Filip Schouwenaars from DataCamp and Jonathan Sanito from Microsoft at edX). ~ 12 hours.
+  * [Course Certificate ✓](https://courses.edx.org/certificates/16eb3a446afd48a4903a489e0e760694).
 - [X] [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) (by Filip Schouwenaars at DataCamp). ~ 4 hours.
 - [X] [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science) (by Filip Schouwenaars at DataCamp). ~ 4 hours.
 - [ ] [Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science) (by Jason Myers at DataCamp). ~ 4 hours.
