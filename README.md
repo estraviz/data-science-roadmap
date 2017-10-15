@@ -42,11 +42,11 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
     - [General](#general-back-to-top-).
     - [Spark](#spark-back-to-top-).
 9. [Books](#9-books-back-to-top-).    
-10. [Miscellaneous courses in Computer Science](#10-miscellaneous-courses-in-computer-science-back-to-top-).
+10. [Other courses in Computer Science](#10-other-courses-in-computer-science-back-to-top-).
     - [JavaScript](#javascript-back-to-top--1).
     - [Python](#python-back-to-top--7).
     - [R](#r-back-to-top--7).
-    - [Others](#others-back-to-top-).
+    - [Miscellaneous](#miscellaneous-back-to-top-).
 
 ---  
 
@@ -258,7 +258,7 @@ This is a selection of books for Data Science and related disciplines from which
 _(*) Expected publication date_
 
 
-# 10. MISCELLANEOUS COURSES IN COMPUTER SCIENCE <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+# 10. OTHER COURSES IN COMPUTER SCIENCE <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 ### JavaScript <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub> 
 - [X] [Introduction to graphics engines: modeling, animation and graphic representation](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Joseba Makazaga and Aitor Soroa. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). Library `three.js`. 6 ECTS ~ 150 hours.
 
@@ -271,6 +271,6 @@ _(*) Expected publication date_
 - [X] [Image and signal processing](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Mamen Hernández and Josune Gallego. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 4.5 ECTS ~ 112.5 hours.
 - [X] [Cryptography](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Itziar Baragaña and Alicia Roca. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 4.5 ECTS ~ 112.5 hours.
 
-### Others <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+### Miscellaneous <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Methodology and research techniques](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Basilio Sierra. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 3 ECTS ~ 75 hours.
 
