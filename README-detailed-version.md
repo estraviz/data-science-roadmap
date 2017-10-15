@@ -874,8 +874,8 @@ This is a selection of books for Data Science and related disciplines from which
 | &#x2610; | [R Deep Learning Essentials](https://www.packtpub.com/big-data-and-business-intelligence/r-deep-learning-essentials) | Joshua F. Wiley | Packt | Mar 2016 | [GitHub](https://github.com/pverspeelt/R-Deep-Learning-Essentials) |
 | &#x2610; | [R in Action (2nd ed.)](https://www.manning.com/books/r-in-action-second-edition) | Robert I. Kabacoff | Manning | May 2015 | [GitHub](https://github.com/kabacoff/RiA2) |
 | &#x2610; | [Data Science from Scratch](https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/) | Joel Grus | O'Reilly | Apr 2015 | [GitHub](https://github.com/joelgrus/data-science-from-scratch) |
-| ✅  | [Data Science at the Command Line](https://www.safaribooksonline.com/library/view/data-science-at/9781491947845/) | Jeroen Janssens | O'Reilly | Oct 2014 | [GitHub](https://github.com/jeroenjanssens/data-science-at-the-command-line) |
-| &#x2611; | [Learning scikit-learn: Machine Learning in Python](https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python) | Raúl Garreta, Guillermo Moncecchi | Packt | Nov 2013 | [GitHub](https://github.com/gmonce/scikit-learn-book) |
+| ◻️ | [Data Science at the Command Line](https://www.safaribooksonline.com/library/view/data-science-at/9781491947845/) | Jeroen Janssens | O'Reilly | Oct 2014 | [GitHub](https://github.com/jeroenjanssens/data-science-at-the-command-line) |
+| ✔️ | [Learning scikit-learn: Machine Learning in Python](https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python) | Raúl Garreta, Guillermo Moncecchi | Packt | Nov 2013 | [GitHub](https://github.com/gmonce/scikit-learn-book) |
 
 _(*) Expected publication date_
 
