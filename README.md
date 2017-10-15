@@ -242,7 +242,7 @@ This is a selection of books for Data Science and related disciplines from which
 
 |  | **Title** | **Author** | **Publisher** | **Release Date** | **Code** |
 | ---------- | ----- | ------ | --------- | ------------ | ---- |
-| ◻️ | [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) | Francois Chollet | Manning | Oct'2017 | [GitHub](https://github.com/fchollet/deep-learning-with-python-notebooks) |
+| ◻️ | [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) | Francois Chollet | Manning | Oct&nbsp;2017 | [GitHub](https://github.com/fchollet/deep-learning-with-python-notebooks) |
 | ◻️ | [Python for Data Analysis (2nd ed.)](https://www.safaribooksonline.com/library/view/python-for-data/9781491957653/) | Wes McKinney | O'Reilly | Oct'2017 | [GitHub](https://github.com/wesm/pydata-book/tree/2nd-edition) |
 | ◻️ | [An Introduction to Statistical Learning (2nd ed.)](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/) | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | Springer | Oct'2017 | [R code](http://www-bcf.usc.edu/~gareth/ISL/code.html) |
 | ◻️ | [Python Machine Learning (2nd ed.)](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-second-edition) | Sebastian Raschka, Vahid Mirjalili | Packt | Sep'2017 | [GitHub](https://github.com/rasbt/python-machine-learning-book-2nd-edition) |
