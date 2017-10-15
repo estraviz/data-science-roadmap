@@ -264,6 +264,7 @@ _(*) Expected publication date_
 
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Heuristic Search](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by José Antonio Lozano and Roberto Santana. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 3 ECTS ~ 75 hours.
+- [X] [Enterprise Software with Python](https://www.safaribooksonline.com/library/view/enterprise-software-with/9781491943755/) (by Mahmoud Hashemi at Safari). ~ 8 hours.
 - [X] [Python: Getting Started](https://www.pluralsight.com/courses/python-getting-started) (by Bo Milanovich at Pluralsight). ~ 3 hours.
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
