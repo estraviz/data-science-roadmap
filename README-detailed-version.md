@@ -936,7 +936,6 @@ _(*) Expected publication date_
   4. Symmetric block encryption.
   5. Public Key Cryptography.
   6. Applications.
-
 ### Miscellaneous <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Methodology and research techniques](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Basilio Sierra. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 3 ECTS ~ 75 hours.
   1. Introduction.
@@ -953,4 +952,6 @@ _(*) Expected publication date_
   7. Lesson 6: Tactical Design with Domain Events.
   8. Lesson 7: Acceleration and Management Tools.
   9. Summary.
-  
+- [X] [Cracking the Data Science Interview](http://shop.oreilly.com/product/0636920039259.do) (by Jonathan Dinu and Katie Kent at Safari). ~ 3 hours.
+  1. Introduction.
+  2. Preparing for interviews.
