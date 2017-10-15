@@ -46,12 +46,12 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 8. [Big Data](#8-big-data-back-to-top-).
     - [General](#general-back-to-top-).
     - [Spark](#spark-back-to-top-).
-9. [Miscellaneous](#9-miscellaneous-back-to-top-).
+9. [Books](#9-books-back-to-top-).    
+10. [Miscellaneous](#10-miscellaneous-back-to-top-).
     - [JavaScript](#javascript-back-to-top--1).
     - [Python](#python-back-to-top--7).
     - [R](#r-back-to-top--7).
     - [Others](#others-back-to-top-).
-10. [Books](#10-books-back-to-top-).
 
 ---  
 
@@ -231,23 +231,7 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
 - [ ] [Introduction to Spark in R using sparklyr](https://www.datacamp.com/courses/introduction-to-spark-in-r-using-sparklyr) (by Richie Cotton at DataCamp). ~ 4 hours.
 
 
-# 9. MISCELLANEOUS <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-### JavaScript <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub> 
-- [X] [Introduction to graphics engines: modeling, animation and graphic representation](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Joseba Makazaga and Aitor Soroa. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). Library `three.js`. 6 ECTS ~ 150 hours.
-
-### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-- [X] [Heuristic Search](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by José Antonio Lozano and Roberto Santana. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 3 ECTS ~ 75 hours.
-
-### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-- [X] [Computation in Science and Engineering: numerical simulation](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Ander Murua. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 6 ECTS ~ 150 hours.
-- [X] [Image and signal processing](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Mamen Hernández and Josune Gallego. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 4.5 ECTS ~ 112.5 hours.
-- [X] [Cryptography](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Itziar Baragaña and Alicia Roca. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 4.5 ECTS ~ 112.5 hours.
-
-### Others <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-- [X] [Methodology and research techniques](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Basilio Sierra. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 3 ECTS ~ 75 hours.
-
-
-# 10. BOOKS <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+# 9. BOOKS <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 This is a selection of books for Data Science and related disciplines from which I have good references. The books are listed in descending order of publication date.
 
 |  | Title | Author | Publisher | Release Date | Code |
@@ -277,3 +261,20 @@ This is a selection of books for Data Science and related disciplines from which
 | &#x2611; | [Learning scikit-learn: Machine Learning in Python](https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python) | Raúl Garreta, Guillermo Moncecchi | Packt | Nov 2013 | [GitHub](https://github.com/gmonce/scikit-learn-book) |
 
 _(*) Expected publication date_
+
+
+# 10. MISCELLANEOUS <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+### JavaScript <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub> 
+- [X] [Introduction to graphics engines: modeling, animation and graphic representation](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Joseba Makazaga and Aitor Soroa. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). Library `three.js`. 6 ECTS ~ 150 hours.
+
+### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+- [X] [Heuristic Search](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by José Antonio Lozano and Roberto Santana. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 3 ECTS ~ 75 hours.
+
+### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+- [X] [Computation in Science and Engineering: numerical simulation](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Ander Murua. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 6 ECTS ~ 150 hours.
+- [X] [Image and signal processing](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Mamen Hernández and Josune Gallego. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 4.5 ECTS ~ 112.5 hours.
+- [X] [Cryptography](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Itziar Baragaña and Alicia Roca. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 4.5 ECTS ~ 112.5 hours.
+
+### Others <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+- [X] [Methodology and research techniques](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Basilio Sierra. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 3 ECTS ~ 75 hours.
+
