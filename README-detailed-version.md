@@ -897,6 +897,12 @@ _(*) Expected publication date_
   3. Population and Hybrid Algorithms.
   4. Multiobjective optimization.
   5. Evaluation of optimization.
+- [X] [Enterprise Software with Python](https://www.safaribooksonline.com/library/view/enterprise-software-with/9781491943755/) (by Mahmoud Hashemi at Safari). ~ 8 hours.
+  1. Introduction to Enterprise Software with Python.
+  2. Defining the Basics.
+  3. Architecture & Design.
+  4. Best Practices.
+  5. Next Steps.
 - [X] [Python: Getting Started](https://www.pluralsight.com/courses/python-getting-started) (by Bo Milanovich at Pluralsight). ~ 3 hours.
   1. Course overview.
   2. Introduction.
