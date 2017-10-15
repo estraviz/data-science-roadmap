@@ -242,7 +242,7 @@ This is a selection of books for Data Science and related disciplines from which
 
 |  | **Title** | **Author** | **Publisher** | **Release Date** | **Code** |
 | ---------- | ----- | ------ | --------- | ------------ | ---- |
-| ◻️ | [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) | Francois Chollet | Manning | Oct&nbsp;2017 | [GitHub](https://github.com/fchollet/deep-learning-with-python-notebooks) |
+| ◻️ | [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) | Francois Chollet | Manning | Jan&nbsp;2018&nbsp;(*) | [GitHub](https://github.com/fchollet/deep-learning-with-python-notebooks) |
 | ◻️ | [Python for Data Analysis (2nd ed.)](https://www.safaribooksonline.com/library/view/python-for-data/9781491957653/) | Wes McKinney | O'Reilly | Oct&nbsp;2017 | [GitHub](https://github.com/wesm/pydata-book/tree/2nd-edition) |
 | ◻️ | [An Introduction to Statistical Learning (2nd ed.)](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/) | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | Springer | Oct&nbsp;2017 | [R code](http://www-bcf.usc.edu/~gareth/ISL/code.html) |
 | ◻️ | [Python Machine Learning (2nd ed.)](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-second-edition) | Sebastian Raschka, Vahid Mirjalili | Packt | Sep&nbsp;2017 | [GitHub](https://github.com/rasbt/python-machine-learning-book-2nd-edition) |
@@ -265,6 +265,9 @@ This is a selection of books for Data Science and related disciplines from which
 | ◻️ | [Data Science from Scratch](https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/) | Joel Grus | O'Reilly | Apr&nbsp;2015 | [GitHub](https://github.com/joelgrus/data-science-from-scratch) |
 | ◻️ | [Data Science at the Command Line](https://www.safaribooksonline.com/library/view/data-science-at/9781491947845/) | Jeroen Janssens | O'Reilly | Oct&nbsp;2014 | [GitHub](https://github.com/jeroenjanssens/data-science-at-the-command-line) |
 | ✔️ | [Learning scikit-learn: Machine Learning in Python](https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python) | Raúl Garreta, Guillermo Moncecchi | Packt | Nov&nbsp;2013 | [GitHub](https://github.com/gmonce/scikit-learn-book) |
+
+
+_(*) Expected publication date_
 
 
 # 10. OTHER COURSES IN COMPUTER SCIENCE <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
