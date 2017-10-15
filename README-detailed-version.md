@@ -10,10 +10,6 @@ I want to track the progress of my studies in this broad area. I do not intend t
 ### How are things classified here?
 It is not that easy to classify subjects in Data Science. Some courses may correspond clearly to only one category, some others may belong to more than one, etc. I have tried to simplify the categories of interest in what you can see in the table of contents. There may still be some incongruences, but I think I am happy with the result :)
 
-### Latest courses completed...
-✅ [**Become a Python Data Analyst**](#python-back-to-top--2) (*Safari course*).  
-✅ [**Neural Networks and Deep Learning**](#python-back-to-top--3) (*Coursera course*).  
-✅ [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](#python-back-to-top--3) (*Coursera course*).   
 
 ---
 
@@ -47,11 +43,11 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
     - [General](#general-back-to-top-).
     - [Spark](#spark-back-to-top-).
 9. [Books](#9-books-back-to-top-).    
-10. [Miscellaneous](#10-miscellaneous-back-to-top-).
+10. [Other courses in Computer Science](#10-other-courses-in-computer-science-back-to-top-).
     - [JavaScript](#javascript-back-to-top--1).
     - [Python](#python-back-to-top--7).
     - [R](#r-back-to-top--7).
-    - [Others](#others-back-to-top-).
+    - [Miscellaneous](#miscellaneous-back-to-top-).
 
 ---  
 
@@ -884,7 +880,7 @@ This is a selection of books for Data Science and related disciplines from which
 _(*) Expected publication date_
 
 
-# 10. MISCELLANEOUS <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+# 10. OTHER COURSES IN COMPUTER SCIENCE <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 ### JavaScript <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub> 
 - [X] [Introduction to graphics engines: modeling, animation and graphic representation](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Joseba Makazaga and Aitor Soroa. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). Library `three.js`. 6 ECTS ~ 150 hours.
   1. Fundamentals: concepts and equipment.
@@ -901,6 +897,14 @@ _(*) Expected publication date_
   3. Population and Hybrid Algorithms.
   4. Multiobjective optimization.
   5. Evaluation of optimization.
+- [X] [Python: Getting Started](https://www.pluralsight.com/courses/python-getting-started) (by Bo Milanovich at Pluralsight). ~ 3 hours.
+  1. Course overview.
+  2. Introduction.
+  3. Types, Statements, and Other Goodies.
+  4. Functions, Files, Yield, and Lambda.
+  5. Object Oriented Programming - Classes and Why Do We Need Them?
+  6. Putting It All Together - Let’s Make It a Web App.
+  7. Python Tips and Tricks.
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Computation in Science and Engineering: numerical simulation](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Ander Murua. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 6 ECTS ~ 150 hours.
@@ -927,7 +931,7 @@ _(*) Expected publication date_
   5. Public Key Cryptography.
   6. Applications.
 
-### Others <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+### Miscellaneous <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Methodology and research techniques](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Basilio Sierra. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 3 ECTS ~ 75 hours.
   1. Introduction.
   2. Search for scientific articles.
