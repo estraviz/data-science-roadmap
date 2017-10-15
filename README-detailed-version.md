@@ -14,11 +14,11 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 ---
 
 # TABLE OF CONTENTS
-1. [Introductory Courses](#1-introductory-courses-back-to-top-).
+1. [Introductory Courses in Data Science](#1-introductory-courses-in-data-science-back-to-top-).
     - [Python](#python-back-to-top-). 
     - [R](#r-back-to-top-).
     - [SQL](#sql-back-to-top-).
-2. [General Courses](#2-general-courses-back-to-top-).
+2. [General Courses in Data Science](#2-general-courses-in-data-science-back-to-top-).
     - [Python](#python-back-to-top--1).
     - [R](#r-back-to-top--1).
 3. [Data Analysis](#data-analysis-back-to-top--2).
