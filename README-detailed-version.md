@@ -937,3 +937,5 @@ _(*) Expected publication date_
   2. Search for scientific articles.
   3. Design of articles.
   4. Real Applications.
+- [X] [Domain-Driven Design Distilled](https://www.safaribooksonline.com/library/view/domain-driven-design-distilled/9780134593449/) (by Vaughn Vernon at Safari). ~ 4 hours.
+  1. 
