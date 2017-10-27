@@ -911,6 +911,18 @@ _(*) Expected publication date_
   5. Object Oriented Programming - Classes and Why Do We Need Them?
   6. Putting It All Together - Let’s Make It a Web App.
   7. Python Tips and Tricks.
+- [X] [Python Fundamentals](https://app.pluralsight.com/library/courses/python-fundamentals) (by Austin Bingham and Robert Smallshire at Pluralsight). ~ 5 hours.
+  1. Introduction to the Python Fundamentals Course.
+  2. Getting Starting With Python 3.
+  3. Strings and Collections.
+  4. Modularity.
+  5. Objects.
+  6. Collections.
+  7. Handling exceptions.
+  8. Iterables.
+  9. Classes.
+  10. Files and Resource Management.
+  11. Shipping Working and Maintainable Code.
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Computation in Science and Engineering: numerical simulation](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Ander Murua. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 6 ECTS ~ 150 hours.
