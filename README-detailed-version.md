@@ -460,7 +460,7 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   1. Practical aspects of Deep Learning.
   2. Optimization algorithms.
   3. Hyperparameter tuning, Batch Normalization and Programming Frameworks.
-- [ ] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) (by Andrew Ng from deeplearning.ai at Coursera) ~ 6 hours. 
+- [X] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) (by Andrew Ng from deeplearning.ai at Coursera) ~ 6 hours. 
   1. ML Strategy (1).
   2. ML Strategy (2).
 - [ ] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) (by Andrew Ng from deeplearning.ai at Coursera). 
