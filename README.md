@@ -150,7 +150,7 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
 - [ ] [Machine Learning: Clustering & Retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval) (by Emily Fox and Carlos Guestrin from University of Washington at Coursera) ~ 30 hours.
 - [X] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) (by Andrew Ng from deeplearning.ai at Coursera) ~ 12 hours. 
 - [X] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
-- [ ] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) (by Andrew Ng from deeplearning.ai at Coursera) ~ 6 hours. 
+- [X] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) (by Andrew Ng from deeplearning.ai at Coursera) ~ 6 hours. 
 - [ ] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) (by Andrew Ng from deeplearning.ai at Coursera). 
 - [ ] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) (by Andrew Ng from deeplearning.ai at Coursera). 
 - [ ] [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) (by Geoffrey Hinton from University of Toronto at Coursera). ~ 112 hours.
