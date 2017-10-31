@@ -276,6 +276,8 @@ _(*) Expected publication date_
 
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Heuristic Search](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by José Antonio Lozano and Roberto Santana. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 3 ECTS ~ 75 hours.
+- [X] [Python Epiphanies. Exploring Fundamental Concepts](https://www.safaribooksonline.com/library/view/python-epiphanies/9781491926130/) (by Stuart Williams at Safari). ~ 2.5 hours.
+- [X] [Python: Design Patterns](https://www.lynda.com/Python-tutorials/Design-Patterns-Python/369187-2.html) (by Jungwoo Ryoo at Lynda.com). ~ 2 hours.
 - [X] [Enterprise Software with Python](https://www.safaribooksonline.com/library/view/enterprise-software-with/9781491943755/) (by Mahmoud Hashemi at Safari). ~ 8 hours.
 - [X] [Python: Getting Started](https://www.pluralsight.com/courses/python-getting-started) (by Bo Milanovich at Pluralsight). ~ 3 hours.
 - [X] [Python Fundamentals](https://app.pluralsight.com/library/courses/python-fundamentals) (by Austin Bingham and Robert Smallshire at Pluralsight). ~ 5 hours.
