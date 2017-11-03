@@ -136,6 +136,7 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
 
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python) (by Benjamin Wilson at DataCamp). ~ 4 hours.
+- [X] [Making Predictions with Data and Python](https://www.safaribooksonline.com/library/view/making-predictions-with/9781788297448/) (by Alvaro Fuentes at Safari). ~ 4 hours.
 - [X] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) (by Andrew Ng from deeplearning.ai at Coursera) ~ 12 hours. 
 - [X] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
 - [X] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) (by Andrew Ng from deeplearning.ai at Coursera) ~ 6 hours. 
