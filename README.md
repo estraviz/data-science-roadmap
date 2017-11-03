@@ -58,11 +58,11 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
   * [Course Certificate ✓](https://www.datacamp.com/statement-of-accomplishment/course/c31b1fbf21cb4ba2cb2b2c2ea69be5b23448fffd).
 - [X] [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science) (by Filip Schouwenaars at DataCamp). ~ 4 hours.
   * [Course Certificate ✓](https://www.datacamp.com/statement-of-accomplishment/course/9e110518236d7a22cafc988c6dc7d33651d0a6b9).
-- [ ] [Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science) (by Jason Myers at DataCamp). ~ 4 hours.
 - [X] [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1) (by Hugo Bowne-Anderson at DataCamp). ~ 3 hours.
   * [Course Certificate ✓](https://www.datacamp.com/statement-of-accomplishment/course/687380fb7cdd21fc3f748ca87cd57ba3f94a930c).
 - [X] [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2) (by Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
   * [Course Certificate ✓](https://www.datacamp.com/statement-of-accomplishment/course/6f54b6c54f8f01018430c4d525a820f153830d86).
+- [ ] [Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science) (by Jason Myers at DataCamp). ~ 4 hours.  
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub> 
 - [X] [Mathematical and Statistical Sofware](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Yosu Yurramendi, Master in Computational Engineering and Intelligent Systems, University of the Basque Country). 3 ECTS ~ 75 hours.
@@ -135,9 +135,12 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
 - [ ] [Learning from Data]() (by Yaser Abu-Mostafa at Caltech). ~ 108 hours.
 
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+- [X] [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python) (by Benjamin Wilson at DataCamp). ~ 4 hours.
+- [X] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) (by Andrew Ng from deeplearning.ai at Coursera) ~ 12 hours. 
+- [X] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
+- [X] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) (by Andrew Ng from deeplearning.ai at Coursera) ~ 6 hours. 
 - [ ] [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) (by Andreas Müller and Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
 - [ ] [Machine Learning with the Experts: School Budgets](https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets) (by Peter Bull at DataCamp). ~ 4 hours.
-- [X] [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python) (by Benjamin Wilson at DataCamp). ~ 4 hours.
 - [ ] [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) (by Dan Becker at DataCamp). ~ 4 hours.
 - [ ] [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) (by Christopher Brooks from University of Michigan at Coursera) ~ 40 hours.
 - [ ] [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting) (by Christopher Brooks from University of Michigan at Coursera) ~ 40 hours.  
@@ -148,9 +151,6 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
 - [ ] [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) (by Emily Fox and Carlos Guestrin from University of Washington at Coursera) ~ 30 hours.
 - [ ] [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification) (by Carlos Guestrin and Emily Fox from University of Washington at Coursera) ~ 35 hours.
 - [ ] [Machine Learning: Clustering & Retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval) (by Emily Fox and Carlos Guestrin from University of Washington at Coursera) ~ 30 hours.
-- [X] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) (by Andrew Ng from deeplearning.ai at Coursera) ~ 12 hours. 
-- [X] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
-- [X] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) (by Andrew Ng from deeplearning.ai at Coursera) ~ 6 hours. 
 - [ ] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) (by Andrew Ng from deeplearning.ai at Coursera). 
 - [ ] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) (by Andrew Ng from deeplearning.ai at Coursera). 
 - [ ] [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) (by Geoffrey Hinton from University of Toronto at Coursera). ~ 112 hours.
@@ -205,8 +205,8 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
 # 7. PROBABILITY AND STATISTICS <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Probabilistic Modeling and Bayesian Networks](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Borja Calvo and Aritz Pérez. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 3 ECTS ~ 75 hours.
-- [ ] [Developing Data Products](https://www.coursera.org/learn/data-products) (by Brian Caffo, Jeff Leek and Roger D. Peng from Johns Hopkins University at Coursera). ~ 16 hours.
 - [X] [Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1) (by Justin Bois at DataCamp). ~ 3 hours.
+- [ ] [Developing Data Products](https://www.coursera.org/learn/data-products) (by Brian Caffo, Jeff Leek and Roger D. Peng from Johns Hopkins University at Coursera). ~ 16 hours.
 - [ ] [Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2) (by Justin Bois at DataCamp). ~ 4 hours.
 - [ ] [Case Studies in Statistical Thinking](https://www.datacamp.com/courses/case-studies-in-statistical-thinking) (by Justin Bois at DataCamp). ~  4 hours.
 - [ ] [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1) (by Eric Ma at DataCamp). ~ 4 hours.
