@@ -138,8 +138,11 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
 - [X] [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python) (by Benjamin Wilson at DataCamp). ~ 4 hours.
 - [X] [Making Predictions with Data and Python](https://www.safaribooksonline.com/library/view/making-predictions-with/9781788297448/) (by Alvaro Fuentes at Safari). ~ 4 hours. _[My github repo](https://github.com/estraviz/Making-Predictions-with-Data-and-Python)._
 - [X] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) (by Andrew Ng from deeplearning.ai at Coursera) ~ 12 hours. 
+  * [Course Certificate ✓](https://www.coursera.org/account/accomplishments/certificate/4CQZZ6PUYL5D).
 - [X] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
+  * [Course Certificate ✓](https://www.coursera.org/account/accomplishments/certificate/AVZZ85933NSE).
 - [X] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) (by Andrew Ng from deeplearning.ai at Coursera) ~ 6 hours. 
+  * [Course Certificate ✓](https://www.coursera.org/account/accomplishments/certificate/75HC62R622BH).
 - [ ] [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) (by Andreas Müller and Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
 - [ ] [Machine Learning with the Experts: School Budgets](https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets) (by Peter Bull at DataCamp). ~ 4 hours.
 - [ ] [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) (by Dan Becker at DataCamp). ~ 4 hours.
