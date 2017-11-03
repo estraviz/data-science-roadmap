@@ -235,7 +235,7 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
   4. Creating and Manipulating your own Databases.
   5. Putting it all together.
   6. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/1a539e59efa119c9593d16f0d93810832ba05035).
-- [X] [Become a Python Data Analyst](https://www.safaribooksonline.com/library/view/become-a-python/9781787284302/) (by Alvaro Fuentes at Safari). ~ 4 hours 30 minutes. [My github repo](https://github.com/estraviz/Become-a-Python-Data-Analyst). _[My github repo](https://github.com/estraviz/Making-Predictions-with-Data-and-Python)._
+- [X] [Become a Python Data Analyst](https://www.safaribooksonline.com/library/view/become-a-python/9781787284302/) (by Alvaro Fuentes at Safari). ~ 4 hours 30 minutes. _[My github repo](https://github.com/estraviz/Become-a-Python-Data-Analyst)._
   1. The Anaconda Distribution and the Jupyter Notebook.
   2. Vectorizing Operations with NumPy.
   3. Pandas: Everyone’s Favorite Data Analysis Library.
@@ -384,7 +384,7 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   3. Decorrelating your data and dimension reduction.
   4. Discovering interpretable features.
   5. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/ef65643acd968edbb19a7d4ebfbfa092793b45ce).
-- [X] [Making Predictions with Data and Python](https://www.safaribooksonline.com/library/view/making-predictions-with/9781788297448/) (by Alvaro Fuentes at Safari). ~ 4 hours.
+- [X] [Making Predictions with Data and Python](https://www.safaribooksonline.com/library/view/making-predictions-with/9781788297448/) (by Alvaro Fuentes at Safari). ~ 4 hours. _[My github repo](https://github.com/estraviz/Making-Predictions-with-Data-and-Python)._
   1. Chapter 1 : The Tools for Doing Predictive Analytics with Python.
   2. Chapter 2 : Visualization Refresher.
   3. Chapter 3 : Concepts in Predictive Analytics.
