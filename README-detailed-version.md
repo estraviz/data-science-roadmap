@@ -384,6 +384,14 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   3. Decorrelating your data and dimension reduction.
   4. Discovering interpretable features.
   5. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/ef65643acd968edbb19a7d4ebfbfa092793b45ce).
+- [X] [Making Predictions with Data and Python](https://www.safaribooksonline.com/library/view/making-predictions-with/9781788297448/) (by Alvaro Fuentes at Safari). ~ 4 hours.
+  1. Chapter 1 : The Tools for Doing Predictive Analytics with Python.
+  2. Chapter 2 : Visualization Refresher.
+  3. Chapter 3 : Concepts in Predictive Analytics.
+  4. Chapter 4 : Regression: Concepts and Models.
+  5. Chapter 5 : Regression: Predicting Crime, Stock Prices, and Post Popularity.
+  6. Chapter 6 : Classification: Concepts and Models.
+  7. Chapter 7 : Classification: Predicting Bankruptcy, Credit Default, and Spam Text Messages.
 - [X] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) (by Andrew Ng from deeplearning.ai at Coursera) ~ 12 hours. 
   1. Introduction to deep learning.
   2. Neural Networks Basics.
