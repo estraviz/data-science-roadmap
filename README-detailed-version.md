@@ -74,12 +74,6 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
   4. Loops.
   5. Case Study: Hacker Statistics.
   6. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/9e110518236d7a22cafc988c6dc7d33651d0a6b9).
-- [ ] [Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science) (by Jason Myers at DataCamp). ~ 4 hours.
-  1. Fundamental data types.
-  2. Dictionaries - the root of Python.
-  3. Meet the collections module.
-  4. Handling Dates and Times.
-  5. Answering Data Science Questions.
 - [X] [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1) (by Hugo Bowne-Anderson at DataCamp). ~ 3 hours.
   1. Writing your own functions.
   2. Default arguments, variable-length arguments and scope.
@@ -90,6 +84,12 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
   2. List comprehensions and generators.
   3. Bringing it all together!
   4. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/6f54b6c54f8f01018430c4d525a820f153830d86).
+- [ ] [Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science) (by Jason Myers at DataCamp). ~ 4 hours.
+  1. Fundamental data types.
+  2. Dictionaries - the root of Python.
+  3. Meet the collections module.
+  4. Handling Dates and Times.
+  5. Answering Data Science Questions.  
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub> 
 - [X] [Mathematical and Statistical Sofware](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Yosu Yurramendi, Master in Computational Engineering and Intelligent Systems, University of the Basque Country). 3 ECTS ~ 75 hours.
@@ -378,6 +378,24 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   18. Epilogue.
 
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+- [X] [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python) (by Benjamin Wilson at DataCamp). ~ 4 hours.
+  1. Clustering for dataset exploration.
+  2. Visualization with hierarchical clustering and t-SNE.
+  3. Decorrelating your data and dimension reduction.
+  4. Discovering interpretable features.
+  5. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/ef65643acd968edbb19a7d4ebfbfa092793b45ce).
+- [X] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) (by Andrew Ng from deeplearning.ai at Coursera) ~ 12 hours. 
+  1. Introduction to deep learning.
+  2. Neural Networks Basics.
+  3. Shallow neural networks.
+  4. Deep Neural Networks.
+- [X] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
+  1. Practical aspects of Deep Learning.
+  2. Optimization algorithms.
+  3. Hyperparameter tuning, Batch Normalization and Programming Frameworks.
+- [X] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) (by Andrew Ng from deeplearning.ai at Coursera) ~ 6 hours. 
+  1. ML Strategy (1).
+  2. ML Strategy (2).  
 - [ ] [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) (by Andreas Müller and Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
   1. Classification.
   2. Regression.
@@ -388,12 +406,6 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   2. Creating a simple first model.
   3. Improving your model.
   4. Learning from the experts.
-- [X] [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python) (by Benjamin Wilson at DataCamp). ~ 4 hours.
-  1. Clustering for dataset exploration.
-  2. Visualization with hierarchical clustering and t-SNE.
-  3. Decorrelating your data and dimension reduction.
-  4. Discovering interpretable features.
-  5. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/ef65643acd968edbb19a7d4ebfbfa092793b45ce).
 - [ ] [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) (by Dan Becker at DataCamp). ~ 4 hours.
   1. Basics of deep learning and neural networks.
   2. Optimizing a neural network with backward propagation.
@@ -451,18 +463,6 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   4. Mixture Models.
   5. Mixed Membership Modeling via Latent Dirichlet Allocation.
   6. Hierarchical Clustering & Closing Remarks.
-- [X] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) (by Andrew Ng from deeplearning.ai at Coursera) ~ 12 hours. 
-  1. Introduction to deep learning.
-  2. Neural Networks Basics.
-  3. Shallow neural networks.
-  4. Deep Neural Networks.
-- [X] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
-  1. Practical aspects of Deep Learning.
-  2. Optimization algorithms.
-  3. Hyperparameter tuning, Batch Normalization and Programming Frameworks.
-- [X] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) (by Andrew Ng from deeplearning.ai at Coursera) ~ 6 hours. 
-  1. ML Strategy (1).
-  2. ML Strategy (2).
 - [ ] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) (by Andrew Ng from deeplearning.ai at Coursera). 
 - [ ] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) (by Andrew Ng from deeplearning.ai at Coursera). 
 - [ ] [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) (by Geoffrey Hinton from University of Toronto at Coursera). ~ 112 hours.
@@ -710,17 +710,17 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   2. Modeling of joint probabilities through Bayesian networks.
   3. Automatic learning of Bayesian networks.
   4. Applications of Bayesian networks: supervised classification.
-- [ ] [Developing Data Products](https://www.coursera.org/learn/data-products) (by Brian Caffo, Jeff Leek and Roger D. Peng from Johns Hopkins University at Coursera). ~ 16 hours.
-  1. `shiny`, `googleVis`, and `plotly`.
-  2. R Markdown and `leaflet`.
-  3. R Packages.
-  4. `swirl` and Course Project.
 - [X] [Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1) (by Justin Bois at DataCamp). ~ 3 hours.
   1. Graphical exploratory data analysis.
   2. Quantitative exploratory data analysis.
   3. Thinking probabilistically-- Discrete variables.
   4. Thinking probabilistically-- Continuous variables.
-  5. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/c4d451bf7fcb9e0aa9fb8cca0748d10b86e38a9a).
+  5. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/c4d451bf7fcb9e0aa9fb8cca0748d10b86e38a9a). 
+- [ ] [Developing Data Products](https://www.coursera.org/learn/data-products) (by Brian Caffo, Jeff Leek and Roger D. Peng from Johns Hopkins University at Coursera). ~ 16 hours.
+  1. `shiny`, `googleVis`, and `plotly`.
+  2. R Markdown and `leaflet`.
+  3. R Packages.
+  4. `swirl` and Course Project.
 - [ ] [Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2) (by Justin Bois at DataCamp). ~ 4 hours.
   1. Parameter estimation by optimization.
   2. Bootstrap confidence intervals.
