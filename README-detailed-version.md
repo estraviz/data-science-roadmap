@@ -397,13 +397,16 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   2. Neural Networks Basics.
   3. Shallow neural networks.
   4. Deep Neural Networks.
+  5. [Course Certificate ✓](https://www.coursera.org/account/accomplishments/certificate/4CQZZ6PUYL5D).
 - [X] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
   1. Practical aspects of Deep Learning.
   2. Optimization algorithms.
   3. Hyperparameter tuning, Batch Normalization and Programming Frameworks.
+  4. [Course Certificate ✓](https://www.coursera.org/account/accomplishments/certificate/AVZZ85933NSE).
 - [X] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) (by Andrew Ng from deeplearning.ai at Coursera) ~ 6 hours. 
   1. ML Strategy (1).
   2. ML Strategy (2).  
+  3. [Course Certificate ✓](https://www.coursera.org/account/accomplishments/certificate/75HC62R622BH).
 - [ ] [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) (by Andreas Müller and Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
   1. Classification.
   2. Regression.
