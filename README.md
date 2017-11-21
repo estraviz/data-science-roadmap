@@ -144,7 +144,7 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
 - [X] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) (by Andrew Ng from deeplearning.ai at Coursera) ~ 6 hours. 
   * [Course Certificate ✓](https://www.coursera.org/account/accomplishments/certificate/75HC62R622BH).
 - [X] [Deep Learning for Business](https://www.coursera.org/learn/deep-learning-business) (by Jong-Moon Chung from Yonsei University at Coursera).
-  * [Course Certificate ✓](https://www.coursera.org/account/accomplishments/verify/4NUQG7DRYDW5). ~ 8 hours.
+  * [Course Certificate ✓](https://www.coursera.org/account/accomplishments/verify/4NUQG7DRYDW5). ~ 8 hours. 
 - [ ] [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) (by Andreas Müller and Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
 - [ ] [Machine Learning with the Experts: School Budgets](https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets) (by Peter Bull at DataCamp). ~ 4 hours.
 - [ ] [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) (by Dan Becker at DataCamp). ~ 4 hours.
