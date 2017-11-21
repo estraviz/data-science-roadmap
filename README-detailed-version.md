@@ -407,6 +407,14 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   1. ML Strategy (1).
   2. ML Strategy (2).  
   3. [Course Certificate ✓](https://www.coursera.org/account/accomplishments/certificate/75HC62R622BH).
+- [X] [Deep Learning for Business](https://www.coursera.org/learn/deep-learning-business) (by Jong-Moon Chung from Yonsei University at Coursera) ~ 8 hours. 
+  1. Deep Learning Products & Services.
+  2. Business with Deep Learning & Machine Learning.
+  3. Deep Learning Computing Systems & Software.
+  4. Basics of Deep Learning Neural Networks.
+  5. Deep Learning with CNN & RNN.
+  6. Deep Learning Project with TensorFlow Playground.
+  7. [Course Certificate ✓](https://www.coursera.org/account/accomplishments/verify/4NUQG7DRYDW5).
 - [ ] [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) (by Andreas Müller and Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
   1. Classification.
   2. Regression.
