@@ -297,4 +297,4 @@ _(*) Expected publication date_
 - [X] [Methodology and research techniques](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Basilio Sierra. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 3 ECTS ~ 75 hours.
 - [X] [Domain-Driven Design Distilled](https://www.safaribooksonline.com/library/view/domain-driven-design-distilled/9780134593449/) (by Vaughn Vernon at Safari). ~ 4 hours.
 - [X] [Cracking the Data Science Interview](http://shop.oreilly.com/product/0636920039259.do) (by Jonathan Dinu and Katie Kent at Safari). ~ 3 hours.
-
+- [X] [Try Docker](https://www.codeschool.com/courses/try-docker) (by Jon Friskics at Codeschool.com). ~  1 hour.
