@@ -1004,3 +1004,7 @@ _(*) Expected publication date_
 - [X] [Cracking the Data Science Interview](http://shop.oreilly.com/product/0636920039259.do) (by Jonathan Dinu and Katie Kent at Safari). ~ 3 hours.
   1. Introduction.
   2. Preparing for interviews.
+- [X] [Try Docker](https://www.codeschool.com/courses/try-docker) (by Jon Friskics at Codeschool.com). ~  1 hour.
+  1. Containers & Images.
+  2. Dockerfiles.
+  3. Volumes.
