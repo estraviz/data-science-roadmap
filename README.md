@@ -53,29 +53,19 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 # 1. INTRODUCTORY COURSES IN DATA SCIENCE <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Intro to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x) (by Filip Schouwenaars from DataCamp and Jonathan Sanito from Microsoft at edX). ~ 12 hours. 
-  * [Course Certificate ✓](https://courses.edx.org/certificates/16eb3a446afd48a4903a489e0e760694).
 - [X] [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) (by Filip Schouwenaars at DataCamp). ~ 4 hours. 
-  * [Course Certificate ✓](https://www.datacamp.com/statement-of-accomplishment/course/c31b1fbf21cb4ba2cb2b2c2ea69be5b23448fffd).
 - [X] [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science) (by Filip Schouwenaars at DataCamp). ~ 4 hours.
-  * [Course Certificate ✓](https://www.datacamp.com/statement-of-accomplishment/course/9e110518236d7a22cafc988c6dc7d33651d0a6b9).
 - [X] [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1) (by Hugo Bowne-Anderson at DataCamp). ~ 3 hours.
-  * [Course Certificate ✓](https://www.datacamp.com/statement-of-accomplishment/course/687380fb7cdd21fc3f748ca87cd57ba3f94a930c).
 - [X] [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2) (by Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
-  * [Course Certificate ✓](https://www.datacamp.com/statement-of-accomplishment/course/6f54b6c54f8f01018430c4d525a820f153830d86).
 - [ ] [Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science) (by Jason Myers at DataCamp). ~ 4 hours.  
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub> 
 - [X] [Mathematical and Statistical Sofware](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Yosu Yurramendi, Master in Computational Engineering and Intelligent Systems, University of the Basque Country). 3 ECTS ~ 75 hours.
 - [X] [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) (by Jeff Leek, Roger D. Peng and Brian Caffo from Johns Hopkins University at Coursera). ~ 4 hours.
-  * [Course Certificate ✓](https://www.coursera.org/account/accomplishments/certificate/7TPYXM4YVP).
 - [X] [R Programming](https://www.coursera.org/learn/r-programming) (by Roger D. Peng, Jeff Leek and Brian Caffo from Johns Hopkins University at Coursera). ~ 28 hours.
-  * [Course Certificate ✓](https://www.coursera.org/account/accomplishments/certificate/DZCCX46N2B).
 - [X] [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) (by Jonathan Cornelissen at DataCamp). ~ 4 hours.
-  * [Course Certificate ✓](https://www.datacamp.com/statement-of-accomplishment/course/14b09c1f789e70fb52d0416dafd19e575b7327ec).
 - [X] [Intermediate R](https://www.datacamp.com/courses/intermediate-r) (by Filip Schouwenaars at DataCamp). ~ 6 hours.
-  * [Course Certificate ✓](https://www.datacamp.com/statement-of-accomplishment/course/f09efefd0659308948d6e4290e348112b03a6ba8).
 - [X] [Intermediate R - Practice](https://www.datacamp.com/courses/intermediate-r-practice) (by Filip Schouwenaars at DataCamp). Same sections to the previous course. ~ 4 hours.
-  * [Course Certificate ✓](https://www.datacamp.com/statement-of-accomplishment/course/1db3b69f78a7104304ead209969d77ddd12b624a).
 - [ ] [Writing Functions in R](https://www.datacamp.com/courses/writing-functions-in-r) (by Hadley Wickham and Charlotte Wickham at DataCamp). ~ 4 hours.
 - [ ] [Writing Efficient R Code](https://www.datacamp.com/courses/writing-efficient-r-code) (by Colin Gillespie at DataCamp). ~ 4 hours.
 - [ ] [Object-Oriented Programming in R: `S3` and `R6`](https://www.datacamp.com/courses/object-oriented-programming-in-r-s3-and-r6) (by Richie Cotton at DataCamp). ~ 4 hours.
@@ -92,7 +82,6 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [15.071x The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x) (by Dimitris Bertsimas from MITx at edX). ~ 120 hours.
-  * [Course Certificate ✓](https://s3.amazonaws.com/verify.edx.org/downloads/51a6577e81cd4481ae32e8d670740f47/Certificate.pdf).
 - [ ] [Data Science Capstone](https://www.coursera.org/learn/data-science-project) (by Jeff Leek, Roger D. Peng and Brian Caffo from Johns Hopkins University at Coursera). 35 hours.
 
 
@@ -298,3 +287,4 @@ _(*) Expected publication date_
 - [X] [Domain-Driven Design Distilled](https://www.safaribooksonline.com/library/view/domain-driven-design-distilled/9780134593449/) (by Vaughn Vernon at Safari). ~ 4 hours.
 - [X] [Cracking the Data Science Interview](http://shop.oreilly.com/product/0636920039259.do) (by Jonathan Dinu and Katie Kent at Safari). ~ 3 hours.
 - [X] [Try Docker](https://www.codeschool.com/courses/try-docker) (by Jon Friskics at Codeschool.com). ~  1 hour.
+- [X] [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science) (by Greg Wilson at DataCamp). ~ 4 hours.
