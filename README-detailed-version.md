@@ -151,6 +151,7 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
   2. Filtering rows.
   3. Aggregate Functions.
   4. Sorting, grouping and joins.
+  5. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/4b9ed36e4fa5b55a8165230d3137550a2cc19c32).
 - [ ] [Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql) (by Chester Ismay at DataCamp). ~ 5 hours.
   1. Introduction to joins.
   2. Outer joins and cross joins.
