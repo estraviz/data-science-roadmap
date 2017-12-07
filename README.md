@@ -71,7 +71,7 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 - [ ] [Object-Oriented Programming in R: `S3` and `R6`](https://www.datacamp.com/courses/object-oriented-programming-in-r-s3-and-r6) (by Richie Cotton at DataCamp). ~ 4 hours.
 
 ### SQL <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-- [ ] [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science) (by Nick Carchedi at DataCamp). ~ 4 hours.
+- [X] [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science) (by Nick Carchedi at DataCamp). ~ 4 hours.
 - [ ] [Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql) (by Chester Ismay at DataCamp). ~ 5 hours.
 
 
