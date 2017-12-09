@@ -1016,3 +1016,10 @@ _(*) Expected publication date_
   4. Working with branches.
   5. Collaborating.
   6. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/03189c42c5aae3365ccff768451bbe05ff98ce4c). 
+- [X] [Introduction to Shell for Data Science Course](https://www.datacamp.com/courses/introduction-to-shell-for-data-science) (by Greg Wilson at DataCamp). ~ 4 hours.
+  1. Manipulating files and directories.
+  2. Manipulating data.
+  3. Combining tools.
+  4. Batch processing.
+  5. Creating new tools.
+  6. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/a39c5da3dad8b8ec94555867defa99e689503807). 
