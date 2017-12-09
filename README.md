@@ -284,3 +284,4 @@ _(*) Expected publication date_
 - [X] [Cracking the Data Science Interview](http://shop.oreilly.com/product/0636920039259.do) (by Jonathan Dinu and Katie Kent at Safari). ~ 3 hours.
 - [X] [Try Docker](https://www.codeschool.com/courses/try-docker) (by Jon Friskics at Codeschool.com). ~  1 hour.
 - [X] [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science) (by Greg Wilson at DataCamp). ~ 4 hours.
+- [X] [Introduction to Shell for Data Science Course](https://www.datacamp.com/courses/introduction-to-shell-for-data-science) (by Greg Wilson at DataCamp). ~ 4 hours.
