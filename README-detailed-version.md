@@ -962,6 +962,13 @@ _(*) Expected publication date_
   9. Classes.
   10. Files and Resource Management.
   11. Shipping Working and Maintainable Code.
+- [X] [Intermediate Python Programming](https://www.safaribooksonline.com/library/view/intermediate-python-programming/9781491954935/) (by Jessica McKellar at Safari). ~ 3 hours.
+  1. Introduction.
+  2. Wordplay warm-up.
+  3. Data structures, a practical intermediate introduction.
+  4. Jeopardy database.
+  5. Plotting with Matplotlib.
+  6. Scraping the NASA Astronomy Picture of the Day Website.
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Computation in Science and Engineering: numerical simulation](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Ander Murua. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 6 ECTS ~ 150 hours.
