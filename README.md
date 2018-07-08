@@ -43,7 +43,8 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
     - [Spark](#spark-back-to-top-).
 9. [Books](#9-books-back-to-top-).    
 10. [Other courses in Computer Science](#10-other-courses-in-computer-science-back-to-top-).
-    - [JavaScript](#javascript-back-to-top--1).
+    - [Software Design](#software-design-back-to-top-).
+    - [JavaScript](#javascript-back-to-top--1).    
     - [Python](#python-back-to-top--7).
     - [R](#r-back-to-top--7).
     - [Miscellaneous](#miscellaneous-back-to-top-).
@@ -263,6 +264,10 @@ _(*) Expected publication date_
 
 
 # 10. OTHER COURSES IN COMPUTER SCIENCE <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+### Software Design <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub> 
+- [X] [Domain-Driven Design Distilled](https://www.safaribooksonline.com/library/view/domain-driven-design-distilled/9780134593449/) (by Vaughn Vernon at Safari). ~ 4 hours.
+- [X] [Microservices: The Big Picture](https://www.pluralsight.com/courses/microservices-big-picture) (by Antonio Goncalves at Pluralsight). ~ 2 hours.
+
 ### JavaScript <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub> 
 - [X] [Introduction to graphics engines: modeling, animation and graphic representation](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Joseba Makazaga and Aitor Soroa. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). Library `three.js`. 6 ECTS ~ 150 hours.
 
@@ -282,7 +287,6 @@ _(*) Expected publication date_
 
 ### Miscellaneous <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Methodology and research techniques](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Basilio Sierra. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 3 ECTS ~ 75 hours.
-- [X] [Domain-Driven Design Distilled](https://www.safaribooksonline.com/library/view/domain-driven-design-distilled/9780134593449/) (by Vaughn Vernon at Safari). ~ 4 hours.
 - [X] [Cracking the Data Science Interview](http://shop.oreilly.com/product/0636920039259.do) (by Jonathan Dinu and Katie Kent at Safari). ~ 3 hours.
 - [X] [Try Docker](https://www.codeschool.com/courses/try-docker) (by Jon Friskics at Codeschool.com). ~  1 hour.
 - [X] [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science) (by Greg Wilson at DataCamp). ~ 4 hours.
