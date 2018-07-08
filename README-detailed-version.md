@@ -44,6 +44,7 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
     - [Spark](#spark-back-to-top-).
 9. [Books](#9-books-back-to-top-).    
 10. [Other courses in Computer Science](#10-other-courses-in-computer-science-back-to-top-).
+    - [Software Design](#software-design-back-to-top-).
     - [JavaScript](#javascript-back-to-top--1).
     - [Python](#python-back-to-top--7).
     - [R](#r-back-to-top--7).
@@ -902,6 +903,23 @@ _(*) Expected publication date_
 
 
 # 10. OTHER COURSES IN COMPUTER SCIENCE <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+### Software Design <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub> 
+- [X] [Domain-Driven Design Distilled](https://www.safaribooksonline.com/library/view/domain-driven-design-distilled/9780134593449/) (by Vaughn Vernon at Safari). ~ 4 hours.
+  1. Introduction.
+  2. Lesson 1: DDD for Me.
+  3. Lesson 2: Strategic Design with Bounded Contexts and the Ubiquitous Language.
+  4. Lesson 3: Strategic Design with Subdomains.
+  5. Lesson 4: Strategic Design with Context Mapping.
+  6. Lesson 5: Tactical Design with Aggregates.
+  7. Lesson 6: Tactical Design with Domain Events.
+  8. Lesson 7: Acceleration and Management Tools.
+  9. Summary.
+- [X] [Microservices: The Big Picture](https://www.pluralsight.com/courses/microservices-big-picture) (by Antonio Goncalves at Pluralsight). ~ 2 hours.
+  1. Course Overview.
+  2. What Are Microservices?
+  3. Microservices Elements.
+  4. Are Microservices Right for Your Organization?
+
 ### JavaScript <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub> 
 - [X] [Introduction to graphics engines: modeling, animation and graphic representation](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Joseba Makazaga and Aitor Soroa. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). Library `three.js`. 6 ECTS ~ 150 hours.
   1. Fundamentals: concepts and equipment.
@@ -1000,16 +1018,6 @@ _(*) Expected publication date_
   2. Search for scientific articles.
   3. Design of articles.
   4. Real Applications.
-- [X] [Domain-Driven Design Distilled](https://www.safaribooksonline.com/library/view/domain-driven-design-distilled/9780134593449/) (by Vaughn Vernon at Safari). ~ 4 hours.
-  1. Introduction.
-  2. Lesson 1: DDD for Me.
-  3. Lesson 2: Strategic Design with Bounded Contexts and the Ubiquitous Language.
-  4. Lesson 3: Strategic Design with Subdomains.
-  5. Lesson 4: Strategic Design with Context Mapping.
-  6. Lesson 5: Tactical Design with Aggregates.
-  7. Lesson 6: Tactical Design with Domain Events.
-  8. Lesson 7: Acceleration and Management Tools.
-  9. Summary.
 - [X] [Cracking the Data Science Interview](http://shop.oreilly.com/product/0636920039259.do) (by Jonathan Dinu and Katie Kent at Safari). ~ 3 hours.
   1. Introduction.
   2. Preparing for interviews.
